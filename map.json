@@ -4,6 +4,7 @@
     "judul": "Pos Pertama",
     "url": "pos-pertama",
     "lang": ["id"],
+    "deskripsi": "Uji halaman pertama",
     "content": "https://raw.githubusercontent.com/ywnv/blog-post/mastah/pos-pertama.md",
     "timestamp": ""
   }
