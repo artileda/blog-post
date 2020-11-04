@@ -1,7 +1,7 @@
 [
   {
-    "id": 0
-    "judul":"Pos Pertama",
+    "id": 0,
+    "judul": "Pos Pertama",
     "url": "pos-pertama",
     "lang": ["id"],
     "content": "https://raw.githubusercontent.com/ywnv/blog-post/mastah/pos-pertama.md",
